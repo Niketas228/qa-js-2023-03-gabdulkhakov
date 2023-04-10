@@ -1,9 +1,3 @@
 otus1
-<<<<<<< HEAD
-=======
-
-<<<<<<< HEAD
-### project descp
+123
 lorem  ipsim lala228
-
->>>>>>> master
